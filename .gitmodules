@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "GMRP"]
 	path = GMRP
 	url = https://git.bioconductor.org/packages/GMRP
-	shallow = true
-	registered = true
 [submodule "MBttest"]
 	path = MBttest
 	url = https://git.bioconductor.org/packages/MBttest
-	shallow = true
-	registered = true
 [submodule "NBBttest"]
 	path = NBBttest
 	url = https://github.com/cran/NBBttest
-	shallow = true
-	registered = true
 [submodule "tatest"]
 	path = tatest
 	url = https://github.com/yuande/tatest
-	shallow = true
-	registered = true
