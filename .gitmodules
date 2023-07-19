@@ -11,6 +11,9 @@
 [submodule "NBBttest"]
 	path = NBBttest
 	url = https://github.com/cran/NBBttest
+[submodule "signatureSurvival"]
+	path = signatureSurvival
+	url = https://github.com/cran/signatureSurvival
 [submodule "tatest"]
 	path = tatest
 	url = https://github.com/yuande/tatest
