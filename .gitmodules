@@ -2,12 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "GMRP"]
-	path = GMRP
-	url = https://git.bioconductor.org/packages/GMRP
-[submodule "MBttest"]
-	path = MBttest
-	url = https://git.bioconductor.org/packages/MBttest
 [submodule "NBBttest"]
 	path = NBBttest
 	url = https://github.com/cran/NBBttest
