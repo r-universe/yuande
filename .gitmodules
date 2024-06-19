@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "NBBttest"]
-	path = NBBttest
-	url = https://github.com/cran/NBBttest
 [submodule "signatureSurvival"]
 	path = signatureSurvival
 	url = https://github.com/cran/signatureSurvival
